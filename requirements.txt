@@ -1,0 +1,6 @@
+openai
+streamlit
+transformers
+diffusers
+langchain
+llama-index
